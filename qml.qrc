@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>Dashboard.qml</file>
+        <file>Branch.qml</file>
+        <file>Week.qml</file>
+        <file>Busy.qml</file>
+    </qresource>
+</RCC>
