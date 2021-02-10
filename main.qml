@@ -79,7 +79,7 @@ ApplicationWindow {
             PropertyAnimation {
                 target: week
                 property: "visible"
-                to: "true"
+                to: dashboard.week_clicked ? "true" : "false"
                 duration: 5
                 easing.type: Easing.InOutQuad
             }

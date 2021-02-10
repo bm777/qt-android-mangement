@@ -6,5 +6,6 @@
         <file>Branch.qml</file>
         <file>Week.qml</file>
         <file>Busy.qml</file>
+        <file>week/Header.qml</file>
     </qresource>
 </RCC>
